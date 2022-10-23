@@ -1,0 +1,5 @@
+word_1 = ["my", "your", "our"].sample
+word_2 = ["house", "pants", "shoes"].sample
+word_3 = ["are", "could be", "used to be"].sample
+word_4 = ["cool", "not cool", "kinda cool"].sample
+puts [word_1, word_2, word_3, word_4].join(" ") #=> my shoes are cool
