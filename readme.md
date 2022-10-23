@@ -1,7 +1,7 @@
 # Silly Insult Generator
 
-Instructions: run the file
+Instructions: execute the file
 
 ```
-ruby first_file.rb
+./silly_insult_generator
 ```
